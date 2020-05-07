@@ -1,10 +1,25 @@
+---
+description: self-intruduction
+---
+
 # Introduction
 
-## Self Introduction
+## ABOUT ME
 
-I am a second year graduate student studying at the computer science college in [NUAA](http://nuaa.edu.cn/nuaanew/). Currently, I’m learning cloud computing and multiobjective optimization algorithm.  
-You can contact me by [linkedin](https://www.linkedin.com/?trk=nav_logo)  
+### WORKING
 
+* **MeiTuan-DianPing** Company @ Shanghai, China ： **Backend Development for UGC**\(User Generate Content\) \[24/04/2018 - now\]
 
+### EDUCATION
 
+* M.S. in Computer Science & Technology @ **Nanjing University of Aeronautics and Astronautics**
+* B.Eng. in Computer Science & Technology @ **Nanjing University of Aeronautics and Astronautics**
+
+### INTEREST
+
+* Sports, such as badminton, Ping-Pong boll, table boll and etc.
+* Running
+* Writing
+* Singing
+* Fit
 
